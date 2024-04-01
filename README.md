@@ -1,6 +1,7 @@
 # apnacollage-demo
 This is my first reposetery
 <br>
-Author-virendra kaira
+Author-virendra singh kaira
+
 
 
